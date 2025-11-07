@@ -1,4 +1,4 @@
-# 🧠 Prova – Estrutura de Dados e Análise de Algoritmos
+Estrutura de Dados e Análise de Algoritmos
  
 Este projeto contém a resolução de exercícios e desafios práticos da disciplina **Estrutura de Dados e Análise de Algoritmos**, desenvolvidos em **Python**.  
 O notebook demonstra a aplicação de conceitos fundamentais de lógica, estruturas lineares e análise de desempenho de algoritmos.
